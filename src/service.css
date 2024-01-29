@@ -1,0 +1,14 @@
+/* service.css, JAYKUMAR KAKADIYA, 301430863, and 28/01/2024. */
+.flex-extra {
+    justify-content: space-between;
+    gap: 150px;
+  }
+  
+  .background {
+    background-color: cadetblue;
+    color: white;
+  }
+  
+  .background:hover {
+    background-color: rgb(212, 73, 73);
+  }
