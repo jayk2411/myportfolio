@@ -6,7 +6,9 @@ export default function Layout() {
     return (
         <div className='row p-3'>
             <div className='col-sm-6'>
-                < img src={sign} alt="sign" className="football" width="100px" height="100px" />
+                <Link to="/">
+                    < img src={sign} alt="sign" className="football" width="100px" height="100px" />
+                </Link>
             </div>
             <div className='col-sm-6'>
                 <nav>
