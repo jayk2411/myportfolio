@@ -13,7 +13,7 @@ export default function Layout() {
             <div className='col-sm-6'>
                 <nav>
                     <div className='d-flex gap-3'>
-                        <Link to="/" className='demo'>Home</Link>
+                        <Link to="/home" className='demo'>Home</Link>
                         <Link to="/about" className='demo'>About</Link>
                         <Link to="/service" className='demo'>Service</Link>
                         <Link to="/project" className='demo'>Project</Link>
